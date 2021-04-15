@@ -39,7 +39,6 @@ This sample shows how to define a new **blueprint** and use it on top of an exis
 
 - [Atlantis Lite - Flask](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark) - product page
 - [Atlantis Lite - Flask Demo](https://flask-atlantis-dark.appseed-srv1.com/) - LIVE Deployment
-- [Flask Tutorial](https://github.com/app-generator/tutorial-flask) - Getting started with Flask
 
 <br />
 
